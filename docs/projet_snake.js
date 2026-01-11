@@ -5,7 +5,7 @@ window.addEventListener('load', function()
     var canvasHeight = 600; // hauteur canvas
     var blockSize = 10; // Taille de block
     var ctx; // c'est le context, c'est la où on va faire notre snake
-    var delay = 15; // C'est le délai. En code tous est dit par millisecondes
+    var delay = 100; // C'est le délai. En code tous est dit par millisecondes
     var snakee;
     var canvas;
     var applee;
